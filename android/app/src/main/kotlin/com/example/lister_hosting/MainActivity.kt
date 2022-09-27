@@ -1,0 +1,6 @@
+package com.example.lister_hosting
+
+import io.flutter.embedding.android.FlutterActivity
+
+class MainActivity: FlutterActivity() {
+}
